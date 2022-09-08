@@ -1,5 +1,6 @@
 #Maria Bychko
-
+<image
+  src="/masha photo.jpg" width=150>
 ---
 tel. +541178967503
 email: mariambychko@gmil.com
@@ -13,7 +14,7 @@ __Marriage Status__: married
 
 ###Current Experience
 
-__06.2016 - present__         Maternity + education break
+__06.2016 - present__         Maternity + Education Break
 
 - __08.2021 - 08.2022__ - The Web Development Bootcamp 2022 by Colt Steele, Udemy
 Code exaple:
