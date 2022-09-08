@@ -16,6 +16,16 @@ __Marriage Status__: married
 __06.2016 - present__         Maternity + education break
 
 - __08.2021 - 08.2022__ - The Web Development Bootcamp 2022 by Colt Steele, Udemy
+Code exaple:
+```
+function sumArray(array){
+    let total=0
+    for (let i=0; i<array.length; i++){
+        total +=array[i]
+    }
+    return total;
+}
+```
 - __09.2021 - 08.2022__ - The Polish Language Courses "Polski dla Ciebie", A1, A2
 - __12.2020 - 03.2021__  -  Internet Marketing Course, IT-Academy, Educational Center for Programming and High Tech    
 
@@ -40,6 +50,7 @@ __09.1997 - 07.2008__ - __Gymnasium № 12, Minsk__
     - Polish (pre-intermediate)
     - Italian (basic)
     - Russian (native)
+- JS, HTML, CSS basics
 - Well organised
 - Excellent communication and social skills
 - Diligent
